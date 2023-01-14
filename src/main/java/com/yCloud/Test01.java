@@ -6,5 +6,6 @@ public class Test01 {
         System.out.println("test for modify");
         System.out.println("test for three");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
